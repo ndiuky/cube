@@ -1,0 +1,14 @@
+{
+  "name": "cube",
+  "module": "cube.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun cube.js"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
